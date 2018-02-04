@@ -1,0 +1,118 @@
+cs1302-arcade:
+total 64
+-rw-r--r--. 1 ugrad  1010 Dec 11 12:54 Attributions.md
+-rw-r--r--. 1 ugrad 19121 Nov 13 20:38 LICENSE
+-rw-r--r--. 1 ugrad   207 Nov 13 20:38 Makefile
+-rw-r--r--. 1 ugrad  1942 Nov 13 20:38 pom.xml
+-rw-r--r--. 1 ugrad 18823 Nov 13 20:38 README.md
+-rw-r--r--. 1 ugrad     0 Dec 11 17:05 rec27489
+-rw-r--r--. 1 ugrad  1408 Dec 11 16:44 REFLECTION.md
+drwxr-xr-x. 3 ugrad  4096 Nov 13 20:38 src
+drwxr-xr-x. 5 ugrad  4096 Nov 17 11:20 target
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Dec  8 11:45 main
+
+cs1302-arcade/src/main:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov 13 20:38 java
+drwxr-xr-x. 2 ugrad 4096 Dec 11 12:54 resources
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 13 20:38 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec 11 16:57 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 60
+-rw-r--r--. 1 ugrad 10061 Dec 11 16:56 ArcadeApp.java
+-rw-r--r--. 1 ugrad  1132 Dec 11 16:44 HighScoreList.java
+-rw-r--r--. 1 ugrad   527 Dec 11 16:44 Player.java
+-rw-r--r--. 1 ugrad 16578 Dec 11 16:56 Reversi.java
+-rw-r--r--. 1 ugrad 17752 Dec 11 16:57 SpaceInvaders.java
+
+cs1302-arcade/src/main/resources:
+total 1332
+-rw-r--r--. 1 ugrad  17296 Dec  8 17:39 ARCADECLASSIC.TTF
+-rw-r--r--. 1 ugrad 515663 Dec 11 12:54 blockgif.gif
+-rw-r--r--. 1 ugrad   6509 Dec  8 11:45 blueAlien.gif
+-rw-r--r--. 1 ugrad   8625 Dec  8 11:45 giphy-2.gif
+-rw-r--r--. 1 ugrad  79377 Dec  8 11:45 giphy.mp4
+-rw-r--r--. 1 ugrad 610257 Dec 11 12:54 Hi-Tech-Wallpaper-1.png
+-rw-r--r--. 1 ugrad   7537 Dec 11 12:54 invmed.gif
+-rw-r--r--. 1 ugrad   1392 Dec 10 15:21 red.gif
+-rw-r--r--. 1 ugrad  25041 Dec 11 12:54 Reversi.gif
+-rw-r--r--. 1 ugrad  10322 Dec 11 12:54 ScreenshotStarfield.png
+-rw-r--r--. 1 ugrad   3799 Dec 11 12:54 skull.gif
+-rw-r--r--. 1 ugrad   8260 Dec 11 12:54 spaceinvaders300.jpg
+-rw-r--r--. 1 ugrad  40974 Dec 11 12:54 unnamed.png
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x. 3 ugrad 4096 Dec 11 13:03 classes
+drwxr-xr-x. 3 ugrad 4096 Nov 17 11:20 generated-sources
+drwxr-xr-x. 3 ugrad 4096 Nov 17 11:20 maven-status
+
+cs1302-arcade/target/classes:
+total 1336
+-rw-r--r--. 1 ugrad  17296 Dec  9 15:35 ARCADECLASSIC.TTF
+-rw-r--r--. 1 ugrad 515663 Dec 11 13:03 blockgif.gif
+-rw-r--r--. 1 ugrad   6509 Dec  9 15:35 blueAlien.gif
+drwxr-xr-x. 3 ugrad   4096 Nov 17 11:20 cs1302
+-rw-r--r--. 1 ugrad   8625 Dec  9 15:35 giphy-2.gif
+-rw-r--r--. 1 ugrad  79377 Dec  9 15:35 giphy.mp4
+-rw-r--r--. 1 ugrad 610257 Dec 11 13:03 Hi-Tech-Wallpaper-1.png
+-rw-r--r--. 1 ugrad   7537 Dec 11 13:03 invmed.gif
+-rw-r--r--. 1 ugrad   1392 Dec 11 13:03 red.gif
+-rw-r--r--. 1 ugrad  25041 Dec 11 13:03 Reversi.gif
+-rw-r--r--. 1 ugrad  10322 Dec 11 13:03 ScreenshotStarfield.png
+-rw-r--r--. 1 ugrad   3799 Dec 11 13:03 skull.gif
+-rw-r--r--. 1 ugrad   8260 Dec 11 13:03 spaceinvaders300.jpg
+-rw-r--r--. 1 ugrad  40974 Dec 11 13:03 unnamed.png
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec 11 16:58 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 72
+-rw-r--r--. 1 ugrad  2469 Dec 11 16:58 ArcadeApp$1.class
+-rw-r--r--. 1 ugrad  2750 Dec 11 16:58 ArcadeApp$2.class
+-rw-r--r--. 1 ugrad  2843 Dec 11 16:58 ArcadeApp$3.class
+-rw-r--r--. 1 ugrad  2974 Dec 11 16:58 ArcadeApp$4.class
+-rw-r--r--. 1 ugrad  3036 Dec 11 16:58 ArcadeApp$5.class
+-rw-r--r--. 1 ugrad  7181 Dec 11 16:58 ArcadeApp.class
+-rw-r--r--. 1 ugrad  1558 Dec 11 16:58 HighScoreList.class
+-rw-r--r--. 1 ugrad   611 Dec 11 16:58 Player.class
+-rw-r--r--. 1 ugrad  9703 Dec 11 16:58 Reversi.class
+-rw-r--r--. 1 ugrad  4908 Dec 11 16:58 Reversi$myEventHandler.class
+-rw-r--r--. 1 ugrad 13394 Dec 11 16:58 SpaceInvaders.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 17 11:20 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 17 11:20 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 17 11:20 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 17 11:20 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 ugrad 356 Dec 11 16:58 createdFiles.lst
+-rw-r--r--. 1 ugrad 224 Dec 11 13:06 inputFiles.lst
+/home/ugrads/ank/cs1302-arcade:/home/work/cs1302a
