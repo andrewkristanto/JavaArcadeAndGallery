@@ -1,0 +1,12 @@
+cs1302-minesweeper-alpha:
+total 80
+-rw-r--r--. 1 ugrad   140 Sep 17 23:31 INSTRUCTIONS.md
+-rw-r--r--. 1 ugrad  8848 Sep 17 23:38 Minesweeper.class
+-rw-r--r--. 1 ugrad 14215 Sep 17 23:38 Minesweeper.java
+-rw-r--r--. 1 ugrad 33390 Sep  9 18:35 README.md
+-rw-r--r--. 1 ugrad     0 Sep 17 23:40 rec2540
+-rw-r--r--. 1 ugrad    24 Sep  9 18:35 seed1.txt
+-rw-r--r--. 1 ugrad  1002 Sep  9 18:35 test1.expected.txt
+-rw-r--r--. 1 ugrad     0 Sep 17 23:24 test1.result.txt
+-rw-r--r--. 1 ugrad     2 Sep  9 18:35 test1.txt
+/home/ugrads/ank/cs1302-minesweeper-alpha:/home/work/cs1302a
